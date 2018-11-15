@@ -1,0 +1,67 @@
+Zamknięty zbiór wyjątkowych sytuacji
+W polskiej ustawie, podobnie jak w ustawach innych krajów systemu droit d’auteur oraz w prawie Unii Europejskiej, zastosowano kazuistyczną metodę regulacji przepisów o
+wyjątkach i ograniczeniach praw autorskich. Specjaliści wyprowadzają z tego wniosek, że skoro zasadą jest monopol praw autora, to dozwolony użytek jest wyjątkiem od zasady.
+Wobec tego należy stosować regułę exceptiones non sunt extendae, czyli ściśle interpretować przepisy, bez analogii między postaciami dozwolonego użytku[19]. Część prawników
+dopuszcza analogię pod warunkiem uwzględnienia słusznych interesów twórców i funkcji danego przepisu. Uzasadniają oni, że zakaz analogii „nie ma podstaw normatywnych i nie jest aksjologicznie usprawiedliwiony”[20].
+Korzystanie z utworów rozpowszechnionych
+Dozwolony użytek nie narusza autorskich praw osobistych, w tym prawa autora do decydowaniu o pierwszym publicznym udostępnieniu utworu (prawa autora do rozpowszechnienia
+utworu). Innymi słowy, dozwolony użytek obejmuje tylko utwory rozpowszechnione. Ta reguła tradycyjnie obowiązuje w krajach systemu droit d’auteur[21]. W okresie obowiązywania ustawy z 1926 polscy prawnicy nie byli pewni,
+czy można było ją stosować, ponieważ ówczesne przepisy jej nie formułowały[22]. Ustawa z 1994 w różnych przepisach o dozwolonym użytku wymaga uprzedniego rozpowszechnienia,
+opublikowania, wystawienia[23]. Po nowelizacjach z 2004 i 2015 jest mniej przepisów o dozwolonym użytku, które wymagają uprzedniej publikacji (udostępnienia materialnych nośników utworu: książek, płyt CD, itp.)[24].
+Nie ma pewności, jak traktować korzystanie z utworów otrzymanych bezpośrednio od autora, które nie zostały wcześniej rozpowszechnione. Można uznać, że takie utwory są przedmiotem
+dozwolonego użytku tylko w przypadku korzystania przez obdarowanego, ale nie przez inne osoby. Można się także zastanowić, czy autor, udostępniając prywatnie utwór, nie upoważnił obdarowanego
+do decydowania o pierwszym udostępnieniu utworu[25]. Nie wiadomo też, jak traktować takie sytuacje, gdy użytkownik nie wie, że utwór nie został rozpowszechniony za zgodą autora. Chodzi głównie
+o prawo cytatu i przedruku. Rygorystycznie oceniając, takie korzystanie jest nielegalne, nawet jeżeli użytkownik nie może ustalić, czy utwór jest rozpowszechniony. Istnieje jednak opinia, że
+takie korzystanie może być legalne, o ile jeżeli użytkownik nie ponosi winy (nie może ustalić, czy utwór jest rozpowszechniony)[26].
+Nienaruszanie normalnego korzystania
+Zobacz więcej w artykule Test trójstopniowy, w sekcji Normalne korzystanie z utworu.
+Test trójstopniowy jest umieszczany w aktach prawnych z zakresu prawa autorskiego. Reguluje on tworzenie i interpretację przepisów o wyjątkach i ograniczeniach praw autorskich (
+dozwolonym użytku). W 1994 test został zawarty w art. 35 polskiej ustawy o prawie autorskim[27]. Użyto sformułowania „dozwolony użytek nie może naruszać” (normalnego korzystania z
+utworu lub godzić w słuszne interesy twórcy), co oznacza, że art. 35 ogranicza zakres przepisów o dozwolonym użytku. Uprawniony może się na niego powoływać w sytuacji, gdy użytkownik
+narusza prawa autorskie, nawet jeżeli nie wynika to z przepisu regulującego daną postać dozwolonego użytku[28].
+Poszanowanie autorskich praw osobistych
+Wyjątki i ograniczenia praw autorskich dotyczą tylko autorskich praw majątkowych. Co do tego specjaliści są zgodni, chociaż ta reguła nie została wprost wyrażona w przepisach[29]. W
+ustawie z 1926 dało się ją wywieść z przepisu o dozwolonym użytku publicznym, który nakazywał podawanie twórcy i źródła utworu oraz zakazywał zmieniania utworu. Nie było pewne, czy
+ta reguła dotyczyła także użytku prywatnego[30]. W ustawie z 1994 o obowiązku wymienienia twórcy i źródła utworu stanowi art. 34. Zasada poszanowania autorskich praw osobistych jest
+na tyle pewna, że oceniono, że sformułowanie wprost w ustawie wymogu podania autora i źródła jest „w pewnym sensie zbędne”[31].
+Obowiązek z art. 34 dotyczy wszystkich postaci dozwolonego użytku. Tej oceny nie zmienia fakt, że trudno kontrolować wymienienie twórcy i źródła w przypadku użytku prywatnego[32].
+Podanie twórcy oznacza podanie jego imienia i nazwiska lub pseudonimu. Jeżeli utwór wydano anonimowo, podanie tożsamości twórcy mogłoby naruszyć jego prawa osobiste. W przypadku
+utworów współautorskich takich jak filmy, nie ma potrzeby wymieniania wszystkich współautorów[31]. Także pojęcie „źródło” może oznaczać różne dane. W przypadku cytatu jest to tytuł
+utworu, jednak może też chodzić o lokalizację utworu (np. nazwę i numer czasopisma, stronę www)[33]. Podanie źródła może polegać na podaniu nazwiska redaktora dzieła zbiorowego lub
+nazwy wydawcy. Wymienione dane są przykładowe. Nie ma potrzeby podawać wszystkich jednocześnie[31].
+W praktyce podanie autora i źródła może wyglądać różnie, w zależności od możliwości. W niektórych przypadkach nie ma pełnej wiedzy o autorstwie i źródle, w innych –
+nie ma możliwości przekazania takiej informacji w ramach korzystania z utworu. Chodzi m.in. o cytat w czasie koncertu[33]. O sposobie podania autora i źródła decyduje także zwyczaj[31].
+Brak wynagrodzenia za dozwolony użytek
+Co do zasady użytkownik nie musi płacić podmiotowi praw autorskich za korzystanie z tytułu dozwolonego użytku. Tę zasadę ustanawia art. 34 ustawy o prawie autorskim[34].
+Wyjątki mają równoważyć ochronę interesu użytkowników i podmiotów praw. Jednym sposobem równoważenia interesów tych grup jest obowiązywanie opłat reprograficznych. Stanowią
+one rekompensatę dla podmiotów praw autorskich za masowy dozwolony użytek prywatny[35]. Z kolei niektóre przepisy o dozwolonym użytku publicznym przyznają podmiotom praw autorskich
+prawo do wynagrodzenia[36]. Do tych przepisów należą m.in.: prawo przedruku, zezwolenie na korzystanie z utworów przy tworzeniu podręczników, wypisów i antologii oraz encyklopedii i
+atlasów; a także dozwolony użytek biblioteczny[37].
+Z brakiem wynagrodzenia wiąże się kwestia korzyści majątkowych użytkownika. Niektóre przepisy wymagają, by użytek był nieodpłatny. Zdaniem części prawników oznacza to,
+że w tych przypadkach użytkownik nie płaci podmiotowi praw autorskich za korzystanie, ale także nie może korzystać z utworu w celach komercyjnych (w celu osiągnięcia korzyści
+majątkowych)[38]. Niektórzy specjaliści twierdzą, że ta zasada dotyczy wszystkich postaci dozwolonego użytku[39].
+Inni stwierdzają, że ten wniosek jest błędny, skoro wymóg nieodpłatności jest określony tylko w niektórych przepisach. Po drugie wskazuje się, że z niektórymi sposobami
+dozwolonego korzystania zwykle wiąże się osiąganie korzyści (np. z tworzeniem antologii). Stąd wniosek, że osiąganie korzyści jest legalne, jeżeli dany przepis tego nie wyklucza i
+jeżeli nie narusza się testu trójstopniowego[40]. Także sądy dopuszczają legalność sytuacji, w których użytkownik osiąga zysk, o ile osiągnięcie tego zysku nie jest wyłącznym celem k
+Ograniczenie treści albo wykonywania prawa autorskiego
+Ograniczeniem (granicą) treści prawa autorskiego jest to, co znajduje się poza zakresem uprawnień podmiotu praw autorskich. Z kolei ograniczeniem swobody wykonywania prawa
+autorskiego jest to, czego autor nie może skutecznie dochodzić (w sądzie). W okresie obowiązywania ustawy z 1926 istniała interpretacja, według której dozwolony użytek prywatny
+stanowi ograniczenie treści, a dozwolony użytek publiczny – ograniczenie wykonywania prawa autorskiego[41]. W okresie obowiązywania ustawy z 1952 przedstawiano różne opinie na ten
+temat[42]. Część prawników uważa, że na gruncie ustawy z 1994 dozwolony użytek jest ograniczeniem wykonywania prawa autorskiego[43]. Inni zdecydowanie opowiadają się za drugą koncepcją[44].
+Prawo podmiotowe do dozwolonego użytku
+Pojawiła się propozycja przyznania prawa podmiotowego do dozwolonego użytku albo nawet szerzej, prawa podmiotowego użytkownika do praw autorskich[45]. Jak dotąd użytkownikowi nie
+przysługuje takie prawo i nie może on domagać się umożliwienia korzystania z utworu[46].
+Praktycznymi zaletami przyznania prawa podmiotowego użytkownikowi byłyby m.in.: umożliwienie mu przedstawienia pozytywnego zarzutu dozwolonego użytku (przerzucenie ciężaru
+dowodu na tego, kto wywodzi skutki prawne z braku dozwolonego użytku). Wykonywanie dozwolonego użytku byłoby oceniane z punktu widzenia art. 5 kodeksu cywilnego[47]. Rozwiano
+by wątpliwości co do okoliczności usuwania zabezpieczeń technicznych zapobiegających przed kopiowaniem utworów[48] i co do skuteczności umownej modyfikacji dozwolonego użytku[47].
+Wady tego rozwiązania są zasadnicze. Marginalizuje ono autora i inne podmioty uprawnione. Trudno byłoby określić treść takiego prawa[49]. Użytkownicy wyposażeni w prawo podmiotowe
+mieliby większą możliwość osłabienia swoich praw (nie wystarczyłoby uczynić takiego prawa niezbywalnym)[50]. Ponadto istnieje problem umownego modyfikowania zakresu dozwolonego użytku,
+które grozi uszczupleniem uprawnień celowo przyznanych przez ustawodawcę[51]. Przyznanie prawa podmiotowego do dozwolonego użytku podniosłoby koszty transakcyjne, szczególnie te związanez dochodzeniem ochrony przez użytkownika[52].
+Osobne artykuły: Dozwolony użytek prywatny i Dozwolony użytek publiczny.
+Podstawowym podziałem przepisów o dozwolonym użytku jest podział według adresatów i rodzaju zaspokajanych interesów. Jest to podział na dozwolony użytek prywatny i publiczny[53]. Dozwolony użytek prywatny
+(osobisty) zezwala osobom fizycznym na korzystanie z utworów w sferze prywatnej. Z utworu mogą korzystać – oprócz użytkownika – także osoby mu bliskie. Sposób korzystania z utworu jest co do zasady dowolny[50].
+Do czasu, gdy zaczęto masowo prywatnie kopiować utwory, przyjmowano, że ochrona prawa autorskiego z natury nie dotyczy prywatnej sfery użytkowników[54]. Z kolei dozwolony użytek publiczny zezwala określonym podmiotom
+korzystać z cudzych utworów ze względu na potrzeby kulturalno-oświatowe społeczeństwa. Zakres przepisów o dozwolonym użytku publicznym wynika z aktualnych potrzeb społecznych[55]. Chodzi m.in. o użytek w celach
+informacyjnych i dydaktyczno-naukowych[56].
+Innym kryterium jest możliwość uzyskania wynagrodzenia przez podmiot praw autorskich z tytułu dozwolonego korzystania przez użytkowników. Jeszcze innym jest możliwy sposób korzystania: część przepisów odnosi
+się wyłącznie do korzystania tradycyjnego (analogowego), a część – zarówno do tradycyjnego, jak i do cyfrowego[57].
